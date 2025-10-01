@@ -1,4 +1,4 @@
-# Práctica 2 de VC (Visión por Computador)
+# Práctica 3 de VC (Visión por Computador)
 
 ## Autores
 
