@@ -120,7 +120,7 @@ print(text_size)
 cv2.putText(img, text, (40, (text_size+50)), cv2.FONT_HERSHEY_SIMPLEX, font_scale, (0,255,0), grosor)
 cv2.imshow("Testing", img)
 ```
-
+<img src="./examples/example1.jpg" alt="example1"/>
 
 ### Tarea 2
 
