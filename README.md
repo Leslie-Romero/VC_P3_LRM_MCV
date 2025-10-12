@@ -330,6 +330,12 @@ df.to_csv('particle_features.csv', index=False, sep=';')
 
 Esto genera el csv "particle_features".
 
+El último paso de la tarea es crear la matriz de confusión. Dentro del array real, y, se ecuentran los datos de referencia (contenido en MPS_test_bbs.csv). El segundo array contiene las predicciones del clasificador, cuyos datos han sido alineados.
+
+Una vez los dos array están hechos, se crea la matriz pasándole los datos. Se presentarán los números enteros, con colores azules.
+
+Al imprimirla, se puede comprobar que coinciden 36 fragmentos, 26 pellets y 6 de alquitrán.
+
 
 
 
