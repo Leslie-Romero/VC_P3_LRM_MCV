@@ -336,13 +336,8 @@ Una vez los dos array están hechos, se crea la matriz pasándole los datos. Se 
 
 Al imprimirla, se puede comprobar que coinciden 36 fragmentos, 26 pellets y 6 de alquitrán.
 
-
-
-
-
-
-
-
+<img src="./examples/example2-1.png" alt="example2_1"/>
+<img src="./examples/example2-2.png" alt="example2_2"/>
 
 ## Referencias
 
