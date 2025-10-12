@@ -27,7 +27,17 @@ import csv
 import pandas as pd
 ```
 
+Además, para poder elaborar la matriz de confusión, es requisito instalar los paquetes scikit-learn y seaborn.
+
+```
+pip install scikit-learn seaborn
+```
+
 ## Tareas
+
+### Tarea 2
+
+Se ha creado en primer lugar una función que será usada luego para poder mostrar
 
 ## Referencias
 
